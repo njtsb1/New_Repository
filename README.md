@@ -6,4 +6,3 @@ Project developed at Santander Bootcamp | Fullstack Developer with guidance from
 Learning to develop a Rest API for point and access control of a company's users. We use Java, Spring Boot, Hibernate Envers and lombok in addition to documenting the entire API with Swagger.
 
 [LICENSE](./LICENSE)
-
